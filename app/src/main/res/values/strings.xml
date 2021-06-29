@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CocoaMath</string>
+    <string name="game_over">Game Over</string>
+    <string name="your_score">Your Score</string>
+    <string name="try_again">PLAY AGAIN</string>
+    <string name="home">HOME</string>
+    <string name="high_score">High Score</string>
+    <string name="hscore"></string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+    <string name="name">COCOA MATH</string>
+    <string name="play">PLAY</string>
+    <string name="shake_count">PLAY</string>
+    <string name="scorep">Score : </string>
+    <string name="score"></string>
+    <string name="cancel" />
+    <string name="sample_dialog_message" />
+    <string name="ok" />
+    <string name="heasy">Easy</string>
+    <string name="hnormal">Normal</string>
+    <string name="hhard">Hard</string>
+    <string name="seasy"></string>
+    <string name="snormal"></string>
+    <string name="shard"></string>
+</resources>
